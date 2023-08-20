@@ -32,7 +32,7 @@ Have you ever used online QR code generators for links, only to find that the ge
 
 ## Preview 📷
 
-![QR Generator Preview](./preview.png)
+![QR Generator Preview](./public/preview.png)
 
 ## Contributing 🤝
 
